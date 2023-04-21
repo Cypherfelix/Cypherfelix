@@ -1,15 +1,9 @@
 <h1 align="center">Hey there, I'm Felix 👋</h1>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/computer-science.png"/>
-</p>
 <p align="center">I'm a passionate software developer and a student of Applied Computer Science at the university. I thrive on building robust and user-friendly applications using Java, Python, and C++. </p>
 <p align="center">With a strong foundation in data structures, algorithms, and software engineering, I've been working on some amazing projects, including a Netflix clone using Next.js, a real-time chat system with PHP and sockets.io, and a Java-based POS system.</p>
 <p align="center">When I'm not busy studying, you'll find me working on personal projects and contributing to open source projects. I'm always looking to learn new technologies, improve my skills, and explore the world of programming.</p>
 <p align="center">If you're interested in collaborating on a project or discussing anything software-related, feel free to reach out. Let's connect and create something awesome together!</p>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/github.png"/>
-  <a href="https://github.com/felix-gith"><b>felix-gith</b></a>
-</p>
+
 
 - 🌱 I’m currently learning **Spring and DevOps Engineering**
 
